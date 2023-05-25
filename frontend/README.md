@@ -18,9 +18,6 @@ npm install
 
 ### Compile and Hot-Reload for Development
 
-```sh
-set NODE_SKIP_PLATFORM_CHECK=1 
-```
 
 ```sh
 npm run dev
